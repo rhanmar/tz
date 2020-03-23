@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a239e67d-f764-4c8c-97f0-9ed6340b2834" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Y4yg9MDRYxv5DP4XKCtv3rkEIH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a239e67d-f764-4c8c-97f0-9ed6340b2834" name="Default Changelist" comment="" />
+      <created>1582216277535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582216277535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="296" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582216445468">
+      <screen x="65" y="24" width="1535" height="771" />
+    </state>
+    <state x="296" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1535.771@65.24.1535.771" timestamp="1582216445468" />
+    <state x="494" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1584712830481">
+      <screen x="65" y="24" width="1535" height="771" />
+    </state>
+    <state x="494" y="238" key="com.intellij.ide.util.TipDialog/65.24.1535.771@65.24.1535.771" timestamp="1584712830478" />
+  </component>
+</project>
